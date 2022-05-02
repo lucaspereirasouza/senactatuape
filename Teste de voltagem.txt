@@ -1,0 +1,21 @@
+27/04/22
+
+Testando a tomada da bancada do senac: 120v
+(Obs:Multimetro em 600 volts em corrente alternada (direção no sentido horario))
+
+Teste de continuidade do cabo de força: todos 0
+(Obs: Teste de continuidade é resistencia elétrica de um fio, então tire da tomada, senão o multimetro pode explodir ou derrubar a energia)
+
+Testando o cabo de força na tomada: 120v
+(Obs: Multimetro também em corrente alternada)
+
+Ligando Fonte de alimentação na tomada: On/Off
+(Obs: Energia completamente desligada, fan desligada e todos os testes de voltagem vão para zero.)
+
+Testando a corrente da fonte (Laranja, Vermelho e amarelo): Laranja = 3.1V,Vermelho = 4.9V, Amarelo = 11V
+(Obs: Seguintes cores devem ter: Laranja = 3.3, Vermelho = 5V, Amarelo = 12V)
+
+Testando a fonte com power tester: -12V=12.2, +12V2=12.3, 5VSB=5.0, PG=320ms, +5v=5.0, +12v1=12.3, +3.3V=3.3
+(Obs:Chicote esta com mal contato)
+
+Teste fonte com proto board: (funciuonando 10 volts amarelo 7 volts terra)
