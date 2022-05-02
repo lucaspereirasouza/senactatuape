@@ -1,4 +1,8 @@
 Colocando os fios no negativo (Preto) e no amarelo e vermelho (Positivo), a protoboard pode variar de forma organizada varios coolers, a voltagem dos 3 coolers colocados 
-na protoboard são as mesmas por causa da resistencia da fonte, as imagem de referencia do protobard está na pasta /EletricaEletronica, como esta na imagem, o barramento 
-vertical é necessario o uso do jumper, a "brigde" não tem contato com a linha vertical, não tem contato com outra parte da linha, sendo assim é possivel colocar voltagens
-diferentes no mesmo barramento
+na protoboard são as mesmas por causa da resistencia da fonte, (imagens de referencia do protobard está na pasta /EletricaEletronica), como esta na imagem, o barramento 
+vertical é necessario o uso do jumper, a "brigde" não tem contato com a linha vertical, não tem contato com outra parte da linha, sendo assim é possivel colocar voltagens diferentes no mesmo barramento
+
+Agora, uma "gambiarra", utilizar o fio negativo como polo positivo em outro circuito eletronico, divide a voltagem, então a tendencia é diminuir mais e mais a medida que se utiliza essa gambiarra, colocando tres lampadas por exemplo, irá dividir por três.
+
+12 volts usando três coolers faz todos os coolers ligarem, mas com a tendencia de diminuir a voltagem.
+5 volts usando três coolers faz nenhum dos coolers ligarem. (imagem de referencia na pasta /EletricaEletronica)
