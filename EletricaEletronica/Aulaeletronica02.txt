@@ -1,0 +1,4 @@
+Colocando os fios no negativo (Preto) e no amarelo e vermelho (Positivo), a protoboard pode variar de forma organizada varios coolers, a voltagem dos 3 coolers colocados 
+na protoboard são as mesmas por causa da resistencia da fonte, as imagem de referencia do protobard está na pasta /EletricaEletronica, como esta na imagem, o barramento 
+vertical é necessario o uso do jumper, a "brigde" não tem contato com a linha vertical, não tem contato com outra parte da linha, sendo assim é possivel colocar voltagens
+diferentes no mesmo barramento
