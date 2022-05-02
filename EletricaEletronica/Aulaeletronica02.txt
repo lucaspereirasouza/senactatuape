@@ -6,3 +6,8 @@ Agora, uma "gambiarra", utilizar o fio negativo como polo positivo em outro circ
 
 12 volts usando três coolers faz todos os coolers ligarem, mas com a tendencia de diminuir a voltagem.
 5 volts usando três coolers faz nenhum dos coolers ligarem. (imagem de referencia na pasta /EletricaEletronica)
+
+
+Leds e capacitores 
+
+Leds possuem catódica (Positivo) e Anodo (Negativo), é necessario por em ordem pois ele pode queimar ou simplesmente não ligar, ele usualmente usa uma voltagem baixa, então é fundamental usar um capacitor como voltagem positiva do led
