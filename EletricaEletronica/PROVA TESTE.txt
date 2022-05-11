@@ -38,3 +38,16 @@ PG:250
 3+3V:3.3
 
 2 montar o circuito na protoboad
+voltagem do 12v+5v : 7v
+5+neutro = 5v
+12+neutro = 12v
+
+Tensão eletrica:                                                                                                                                               
+Corrente elética:
+
+3 Montar o circuito em paralelo com o LED
+Medição do resistor: 333
+LED 0.3A
+U x I 3.5A
+
+41.4w TOTAL 4 fontes com 3 coolers em cada (4x3) e 4 leds em cada (4x3)
