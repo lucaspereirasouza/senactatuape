@@ -1,0 +1,26 @@
+Aula eletronica prova
+
+1 teste das tensões elética da tomada
+F (Fase), N (Neutra), T (Terra)
+
+F+N:121V
+F+T:121V
+N+T:0.5V
+
+2 teste da continuidade do cabo de força
+
+F+F:0.5
+N+N:0.3
+T+T:0.5~0.9
+
+3 teste de resistencia do cabo de força
+
+F+F:001
+N+N:000
+T+T:000
+
+4 testar as tensões elétricas no cabo
+
+F+N:121~122v
+F+T:121V
+N+T:0.5V
