@@ -24,3 +24,17 @@ T+T:000
 F+N:121~122v
 F+T:121V
 N+T:0.5V
+
+
+SEGUNDA ETAPA
+
+1 Teste de fonte (Testador de fonte)
+12V:12.0
++12V2:12V2 
+5VSD:5.0
+PG:250
++5V:5.0
++12V1:12.3
+3+3V:3.3
+
+2
