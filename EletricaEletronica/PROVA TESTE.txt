@@ -37,4 +37,4 @@ PG:250
 +12V1:12.3
 3+3V:3.3
 
-2
+2 montar o circuito na protoboad
