@@ -1,0 +1,10 @@
+Descrição da instalação do linux mint 3.0
+
+Você utiliza o Software oracle VM virtual box, Você precisa de uma iso para a instalação, resumidamente você configura o tipo de linux instalado para o 
+ubuntu, é recomendado você trocar o ethernet do computador na parte de cima na parte do usb para o uso do virtualBox, Use o maximo possivel da vram da placa.
+Você encerra a configuração, então você inicia, então, Dispositivo>Disco ópticos>Escolher imagem de disco, escolhe a iso do mint, e começa a instalação, com a seta você
+define como irá iniciar, pressione enter pra iniciar normalmente, depois disso vocÊ espera um tempo e procure pelo arquivo Install ibuntu, escolhe o idioma e o tipo de 
+teclado, voce pode testar as teclaspor ser uma iso virgem, voce escolhe desinstalar tudo da partição, é obrigatorio você seu nome e a sua senha, o linux é obrigatorio ter senha, 
+grande parte das coisasimportantes que voce precisar fazer vai ser necessario por a sua senha. Você troca o seu repositorio (Mirror) nas configurações e começa a 
+atualização, baixar os arquivosdemoram em torno de 20-30 minutos dependendo do servidor do repositorio, e a instalação demora em torno de 10 minutos. Recomendado não atualizar o firefox. Depos da 
+atualização é necessario reinicializar a maquina e desligar em seguida.
