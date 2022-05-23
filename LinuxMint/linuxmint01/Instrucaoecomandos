@@ -1,0 +1,17 @@
+git clone (Clonagem do repositorio, colocar url)
+git pull (Atualizar o repositorio)
+
+git config --global user.name "" (configuração do nome de usuário)
+git config --global user.email	(Configuração do email)
+git config --list 				(Lista da configuração)
+
+
+Git add . (Adiciona toda a mudança no local)
+Git commit -m "a" (Faz a mudança, digite a descrição)
+Git push (Ele leva toda a mudança até o github)
+(Em ordem)
+
+Git config --global
+
+
+Em caso de qualquer coisa, digite --help
