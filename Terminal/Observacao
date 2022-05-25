@@ -3,9 +3,37 @@ https://ss64.com/bash/
 https://guiafoca.org/
 (Você pode também usar --help)
 
+pwd - diretorio atual
+
 Cd - Mudança de diretório
+	- usar - volta uma vez
 Mkdir - criação de diretorio
 	-P (Parente, você pode criar multiplos diretorios um em cima do outro)
 	-V (Detalhes)
 Por exemplo : Cd home/senac
 			  Mkdir -p -v arquivo/arquivo
+Ele criou um diretorio dentro de outro diretorio
+
+echo,cat,head,tail,rmdir
+
+Echo (Basicamente o print) escreve na tela o conteudo que voce escreveu, voce pode registar num texto
+por exemplo:
+		Echo teste
+		Echo > "nome" texto
+
+Cat escreve na tela o conteudo que o arquivo selecionado tem (.txt)
+por exemplo
+	cat texto.txt
+
+Head escreve a primeira parte do conteudo do arquivo selecionado
+por exemplo:
+	head texto.txt
+
+Tail escreve a ultima parte do conteudo do arquivo selecionado
+por exemplo
+	tail texto.txt
+	
+rmdir serve para a remoção de diretorios, ele deleta pasta (vazia)
+por exemplo:
+		Cd home/senac/arquivo
+		rmdir arquivo
