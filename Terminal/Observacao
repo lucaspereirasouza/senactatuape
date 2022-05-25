@@ -1,0 +1,11 @@
+Links de guia e comandos do terminal do linux
+https://ss64.com/bash/
+https://guiafoca.org/
+(Você pode também usar --help)
+
+Cd - Mudança de diretório
+Mkdir - criação de diretorio
+	-P (Parente, você pode criar multiplos diretorios um em cima do outro)
+	-V (Detalhes)
+Por exemplo : Cd home/senac
+			  Mkdir -p -v arquivo/arquivo
