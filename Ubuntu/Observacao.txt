@@ -1,0 +1,40 @@
+Instalar as seguintes distribuições:
+#01_ Primeira distribuição: Kubuntu;
+#02_ Segunda distribuição: Lubuntu;
+#03_ Terceira distribuição: Ubuntu;
+#04_ Quarta distribuição: Xubuntu.
+
+Todos os sistemas terão a configuração de 2048mb de RAM e 20gb de armazenamento
+Ativar aceleração 3D,PAE/NX,VTx-/AMD-V Aninhado e desabilitar o relógio da maquina
+Vram no 128mb (Maximo)
+
+instalação do Kubuntu #01
+Inicie a maquina
+Dispositivos>Discos Ópticos>Escolher uma imagem de discos>Procurar iso kubuntu
+Reinicie a maquina e aperte "try or install ubuntu" [Imagem:]
+Espere até o menu de instalação e comece o Install kubuntu [Imagem:]
+Tudo é questão de preferencia, opções de atualizar e instalar arquivo de midia é recomendado
+é uma instalação bastante simples e direta
+Após a instalação, reinicie
+
+instalação do Ubuntu #02
+repetir o processo [Imagem:]
+Instalação do ubuntu é bastante simples, porém a janela esta fora da janela e um pouco fora de resolução, mexa a parte de cima pro lado esquerdo
+No ubuntu voce tem dois tipos de instalação, a primeira é a instalação simples que irá deletar todo o disco e instalar os progamas em seguida
+O outro meio é para criação e modificação de partições
+Advanced features, tem LVM com a nova instalação, também opção de criptografar com senha [Imagem:]
+Depois é necessario mudar a resolução
+
+Instalação do Lubuntu #03
+repita o processo
+O lubuntu começa com o desktop, então clique no arquivo Install lubuntu
+Instalação simples, processo semelhante ao Kubuntu e Ubuntu [Image:]
+Como o ubuntu, ele tem problema de resolução com o tamanho da janela
+
+Instalação do Xubuntu #04
+repita o processo
+Possivelmente a tela ficara preta, reinicie [Image:XubuntuLoadingScreen]
+Pode demorar um pouco pra carregar e ficar na mesma tela [Image:XubuntuNumbScreen]
+Instalação automatica, 
+
+As distribuidoras tem menus e instalações bastante semelhantes com designs diferentes
