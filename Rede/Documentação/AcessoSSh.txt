@@ -1,0 +1,6 @@
+
+Acesso ssh router
+ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 -oHostKeyAlgorithms=+ssh-rsa -c aes256-cbc lucas@172.16.40.254
+Acesso ssh switch
+ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 -oHostKeyAlgorithms=+ssh-rsa -c aes256-cbc lucas@172.16.40.253
+

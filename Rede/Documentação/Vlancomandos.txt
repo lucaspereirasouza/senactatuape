@@ -1,0 +1,28 @@
+!habilitar
+ena
+!terminal config
+conf t
+hostname sw-01
+!sla porra
+vlan 2
+name SENAC
+exit 
+end
+!cu
+Int f0/1
+!Acesso a fast internet pra criar a vlan
+switchport access vlan 2
+
+show ru n
+
+wr
+
+config t
+interface range fast 0/1-8
+switchport access vlan 10
+
+interface range fast 0/9-16
+switchport access vlan 20
+
+interface range fast 0/17-24
+switchport access vlan 30

@@ -1,0 +1,28 @@
+!Codigo do ativo
+ena
+config t
+hostname sw01 by lucas
+int range gigabitEthernet 0/1-2
+channel-group 1 mode ative
+end
+wr
+
+!Codigo do passivo
+ena
+config t
+hostname sw02 by lucas
+int range gigabitEthernet 0/1-2
+channel-group 1 mode passive
+end
+wr
+
+!caso de merda
+
+!Codigo pra tirar
+config t
+int range gigabitEthernet 0/1-2
+no channel-group 1 mode ative
+no channel-group 1 mode passive
+!colocar em ambos os switchs
+end
+wr

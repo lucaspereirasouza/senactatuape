@@ -1,0 +1,22 @@
+Grupo:
+Bruno
+Lucas
+Kaio 
+Felipe satiro
+
+Localização F9 T9
+
+Cabeamento kaião
+
+Pontos 17,18,16,15
+
+16 kaio funcionando
+15 lucas funcionando
+25 bruno funcionando
+26 felipe funcionando
+
+Porta ?? 24
+
+
+nome:lucas
+senha: 123@senac
